@@ -1,5 +1,7 @@
 # Validating untrusted LLM tool-call JSON
 
+[![tests](https://github.com/mengfoong-dev/llm-tool-call-validation/actions/workflows/test.yml/badge.svg)](https://github.com/mengfoong-dev/llm-tool-call-validation/actions/workflows/test.yml)
+
 A small, dependency-free validator that coerces untrusted model output into a
 strict tool-call schema — and, more to the point, a worked argument about the
 decisions a schema alone doesn't specify.
